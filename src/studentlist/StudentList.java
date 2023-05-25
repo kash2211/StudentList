@@ -14,6 +14,7 @@ public class StudentList {
      * @param args the command line arguments
      */
     private String name;
+    private int number;
     
     public String getName(){
         return name;
