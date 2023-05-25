@@ -1,0 +1,8 @@
+[user]
+name: kash2211
+email: kashish2@sheridancollege.ca
+[difftool "sourcetree"]
+      cmd = "'' "
+[mergetool "sourcetree"]
+      cmd = "'' "
+      trustExitCode = true
